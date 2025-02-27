@@ -1,0 +1,533 @@
+img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+/*Page 1*/
+#div1 {
+  width: 1600px;
+  height: 1000px;
+  margin: auto;
+  position: absolute;
+}
+#sky1 {
+  height: 1000px;
+  width: 1890px;
+  display: block;
+  margin-left: 5px;
+  margin-top: -290px;
+  position: absolute;
+  z-index: 2;
+}
+#grass1 {
+  height: 1100px;
+  width: 1890px;
+  display: block;
+  margin-left: 5px;
+  margin-top: -29px;
+  position: absolute;
+  z-index: 3;
+}
+#dirt1 {
+  height: 1300px;
+  width: 1890px;
+  display: block;
+  margin-left: 5px;
+  margin-top: -290px;
+  position: absolute;
+  z-index: 1;
+}
+#seeds {
+  display: block;
+  margin-left: 550px;
+  margin-top: 250px;
+  position: absolute;
+  z-index: 3;
+}
+#text1 {
+  height: 990px;
+  width: 1890px;
+  display: block;
+  margin-left: -400px;
+  margin-top: 300px;
+  position: absolute;
+  z-index: 3;
+}
+#bird {
+  height: 990px;
+  width: 1890px;
+  display: block;
+  margin-left: 75px;
+  margin-top: -300px;
+  position: absolute;
+  z-index: 3;
+}
+#sun1 {
+  height: 990px;
+  width: 1890px;
+  display: block;
+  margin-left: 700px;
+  margin-top: -375px;
+  position: absolute;
+  z-index: 3;
+}
+
+/*Page 2*/
+#background1 {
+  height: 1000px;
+  width: 1890px;
+  display: block;
+  margin-left: 5px;
+  margin-top: -29px;
+  position: absolute;
+  z-index: 2; 
+  
+  
+}
+#sprout {
+  display: block;
+  margin-left: 1375px;
+  margin-top:350px;
+  position: absolute;
+  z-index: 3;
+}
+#growth1{
+ 
+  width: 1000px;
+  display: block;
+  margin-left: -175px;
+  margin-top:275px;
+  position: absolute;
+  z-index: 3;
+} 
+#growth2{
+ 
+  width: 1000px;
+  display: block;
+  margin-left: 500px;
+  margin-top:230px;
+  position: absolute;
+  z-index: 3;
+} 
+#text2{
+
+  height: 990px;
+  width: 1890px;
+  display: block;
+  margin-left: -250px;
+  margin-top: 350px;
+  position: absolute;
+  z-index: 3;
+
+
+}
+
+/*Page 3*/
+#flower1 {
+  display: block;
+  margin-left: 1100px;
+  margin-top: 200px;
+  position: absolute;
+  z-index: 3;
+}
+#sun2{
+   height: 1100px;
+width: 1800px;
+  display: block;
+  margin-left: 50px;
+  margin-top: -90px;
+  position: absolute;
+  z-index: 2;  
+}
+#growth3{
+  height: 700px;
+  display: block;
+  margin-left: 100px;
+  margin-top: 75px;
+  position: absolute;
+  z-index: 3;
+}
+#growth4{ height: 990px;
+  display: block;
+  margin-left: 275px;
+  margin-top: -135px;
+  position: absolute;
+  z-index: 3;
+  
+}
+#text3{
+  height: 990px;
+  width: 1890px;
+  display: block;
+  margin-left: -250px;
+  margin-top: 350px;
+  position: absolute;
+  z-index: 3;
+}
+
+
+/*Page 4*/
+#flower2{
+  display: block;
+  margin-left: 650px;
+  margin-top: 175px;
+  position: absolute;
+  z-index: 3;
+}
+#bee1{
+  display: block;
+  margin-left: 175px;
+  margin-top: 50px;
+  position: absolute;
+  z-index: 3;
+  
+  
+}
+#text4{
+   height: 990px;
+  width: 1890px;
+  display: block;
+  margin-left: -400px;
+  margin-top: 340px;
+  position: absolute;
+  z-index: 3;
+  
+}
+
+/*Page 5*/
+#bee2{
+ height:800px;
+  display: block;
+  margin-left: 525px;
+  margin-top: -150px;
+  position: absolute;
+  z-index: 3; 
+  
+}
+#flower3{
+ 
+  display: block;
+  margin-left: 500px;
+  margin-top: 175px;
+  position: absolute;
+  z-index: 3;
+  
+}
+#pollen{
+  height:400px;
+  display: block;
+  margin-left: 900px;
+  margin-top: 100px;
+  position: absolute;
+  z-index: 3;   
+  
+  
+}
+#text5{
+  height: 990px;
+  width: 1890px;
+  display: block;
+  margin-left: -400px;
+  margin-top: 300px;
+  position: absolute;
+  z-index: 3;
+}
+
+/*Page 6*/
+#bee3{
+  height:300px;
+  display: block;
+  margin-left: 100px;
+  margin-top: 50px;
+  position: absolute;
+  z-index: 3; 
+  
+  
+}
+#flower4{
+  display: block;
+  margin-left: 700px;
+  margin-top: 175px;
+  position: absolute;
+  z-index: 3;  
+  
+  
+}
+#bee4{
+  
+  height:200px;
+  display: block;
+  margin-left:500px;
+  margin-top: 300px;
+  position: absolute;
+  z-index: 3; 
+  
+  
+}
+#butterfly1{
+  height:250px;
+  display: block;
+  margin-left: 600px;
+  margin-top: 1px;
+  position: absolute;
+  z-index: 3;   
+  
+  
+}
+#butterfly2{
+  height:200px;
+  display: block;
+  margin-left: 1000px;
+  margin-top:-20px;
+  position: absolute;
+  z-index: 3;   
+   
+  
+}
+#butterfly3{
+  height:200px;
+  display: block;
+  margin-left: 1300px;
+  margin-top:275px;
+  position: absolute;
+  z-index: 3;   
+   
+  
+}
+#text6{
+  height: 990px;
+  width: 1890px;
+  display: block;
+  margin-left: -400px;
+  margin-top: 300px;
+  position: absolute;
+  z-index: 3;
+  
+}
+
+/*Page 7*/
+#flowers1{
+   height: 990px;
+  width: 1890px;
+  display: block;
+  margin-left: -450px;
+  margin-top: -100px;
+  position: absolute;
+  z-index: 2; 
+  
+}
+#flowers2{
+   height: 990px;
+  width: 1890px;
+  display: block;
+  margin-left: 460px;
+  margin-top: -100px;
+  position: absolute;
+  z-index: 2; 
+  
+}
+#bird2{
+
+  display: block;
+  margin-left: -300px;
+  margin-top: -650px;
+  position: absolute;
+  z-index: 3;
+}
+#text7{
+ height: 990px;
+  width: 1890px;
+  display: block;
+  margin-left: -400px;
+  margin-top: 300px;
+  position: absolute;
+  z-index: 3; 
+  
+}
+
+/*Page 8*/
+#citations{
+  font-size: 75px;
+  margin-left: 800px
+}
+#img1{
+  height:200px;
+  width: auto;
+  display: block;
+  margin-left:5px;
+  margin-top:200px;
+  position: absolute;
+  z-index: 3;
+  border-style: solid;
+  border-color: darkgreen;
+  
+}
+#img2{
+   height:200px;
+  width: auto;
+  display: block;
+  margin-left:300px;
+  margin-top:200px;
+  position: absolute;
+  z-index: 3;
+  border-style: solid;
+  border-color: darkgreen;
+  
+}
+#img3{
+   height:200px;
+  width: auto;
+  display: block;
+  margin-left:595px;
+  margin-top:200px;
+  position: absolute;
+  z-index: 3;
+  border-style: solid;
+  border-color: darkgreen;
+  
+}
+#img4{
+   height:200px;
+  width: auto;
+  display: block;
+  margin-left:895px;
+  margin-top:200px;
+  position: absolute;
+  z-index: 3;
+  border-style: solid;
+  border-color: darkgreen;
+  
+}
+#img5{
+   height:200px;
+  width: auto;
+  display: block;
+  margin-left:1195px;
+  margin-top:200px;
+  position: absolute;
+  z-index: 3;
+  border-style: solid;
+  border-color: darkgreen;
+  
+}
+#img6{
+   height:200px;
+  width:325px;
+  display: block;
+  margin-left:1560px;
+  margin-top:200px;
+  position: absolute;
+  z-index: 3;
+  border-style: solid;
+  border-color: darkgreen;
+  
+}
+#img7{
+   height:200px;
+  width: auto;
+  display: block;
+  margin-left:5px;
+  margin-top:425px;
+  position: absolute;
+  z-index: 3;
+  border-style: solid;
+  border-color: darkgreen;
+  
+}
+#img8{
+   height:200px;
+  width: auto;
+  display: block;
+  margin-left:300px;
+  margin-top:425px;
+  position: absolute;
+  z-index: 3;
+  border-style: solid;
+  border-color: darkgreen;
+  
+}
+#img9{
+   height:200px;
+  width: auto;
+  display: block;
+  margin-left:595px;
+  margin-top:425px;
+  position: absolute;
+  z-index: 3;
+  border-style: solid;
+  border-color: darkgreen;
+  
+}
+#img10{
+   height:200px;
+  width: auto;
+  display: block;
+  margin-left:895px;
+  margin-top:425px;
+  position: absolute;
+  z-index: 3;
+  border-style: solid;
+  border-color: darkgreen;
+  
+}
+#img11{
+   height:200px;
+   width:350px;
+  display: block;
+  margin-left:1196px;
+  margin-top:425px;
+  position: absolute;
+  z-index: 3;
+  border-style: solid;
+  border-color: darkgreen;
+  
+}
+#img12{
+   height:200px;
+  width:325px;
+  display: block;
+  margin-left:1560px;
+  margin-top:425px;
+  position: absolute;
+  z-index: 3;
+  border-style: solid;
+  border-color: darkgreen;
+  
+}
+#img13{
+   height:200px;
+  width: auto;
+  display: block;
+  margin-left:5px;
+  margin-top:650px;
+  position: absolute;
+  z-index: 3;
+  border-style: solid;
+  border-color: darkgreen;
+  
+}
+#img14{
+   height:200px;
+  width: auto;
+  display: block;
+  margin-left:300px;
+  margin-top:650px;
+  position: absolute;
+  z-index: 3;
+  border-style: solid;
+  border-color: darkgreen;
+  
+}
+#img15{
+   height:200px;
+  width: auto;
+  display: block;
+  margin-left:595px;
+  margin-top:650px;
+  position: absolute;
+  z-index: 3;
+  border-style: solid;
+  border-color: darkgreen;
+  
+}
